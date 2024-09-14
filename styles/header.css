@@ -27,6 +27,6 @@
     display: none;
 }
 
-.container__botão: :checked ~ .lista-menu {
+.container__botão:checked~.lista-menu {
     display: block;
 }
